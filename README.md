@@ -80,3 +80,5 @@ The full log is in the `Cleaning Log` sheet.
 
 **Ibraheem Tunde Lawal**
 Microbiology graduate and data analyst, Kwara State University
+
+This project was completed as an assignment (Assignments 1 and 2) in the TWDP Data Analysis Training.
